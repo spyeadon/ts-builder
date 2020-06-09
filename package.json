@@ -4,7 +4,8 @@
   "description": "Builder pattern implemented for Typescript",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/spyeadon/ts-builder/issues"
   },
-  "homepage": "https://github.com/spyeadon/ts-builder#readme"
+  "homepage": "https://github.com/spyeadon/ts-builder#readme",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
 }
