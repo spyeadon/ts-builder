@@ -1,0 +1,24 @@
+{
+  "name": "ts-builder",
+  "version": "1.0.0",
+  "description": "Builder pattern implemented for Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spyeadon/ts-builder.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Builder",
+    "Utility"
+  ],
+  "author": "spyeadon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spyeadon/ts-builder/issues"
+  },
+  "homepage": "https://github.com/spyeadon/ts-builder#readme"
+}
